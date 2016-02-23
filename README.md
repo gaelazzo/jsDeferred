@@ -8,7 +8,7 @@ This is the exact same code, running the exact same unit tests. Why use a bad co
 
 ### Installation
 
-* use npm: `npm install jsDeferred`
+* use npm: `npm install git://github.com/gaelazzo/jsDeferred`
 * or put JQDeferred as a dependency in `package.json`.
 
 ### Using
